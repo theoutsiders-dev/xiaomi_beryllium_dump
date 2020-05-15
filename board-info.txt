@@ -1,0 +1,3 @@
+require version-baseband=4.0.c2.6-00331-SDM845_GEN_PACK-1.285509.1
+require version-trustzone=TZ.XF.5.0.1.C5.2-00005
+require version-vendor=1588936158
