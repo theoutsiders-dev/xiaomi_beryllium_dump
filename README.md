@@ -1,0 +1,13 @@
+# beryllium-user 10 QKQ1.190828.002 V12.0.0.3.QEJMIXM release-keys
+- manufacturer: xiaomi
+- platform: sdm845
+- codename: beryllium
+- flavor: beryllium-user
+- release: 10
+- id: QKQ1.190828.002
+- incremental: V12.0.0.3.QEJMIXM
+- tags: release-keys
+- fingerprint: Xiaomi/beryllium/beryllium:10/QKQ1.190828.002/V12.0.0.3.QEJMIXM:user/release-keys
+- brand: Xiaomi
+- branch: beryllium-user-10-QKQ1.190828.002-V12.0.0.3.QEJMIXM-release-keys
+- repo: xiaomi_beryllium_dump

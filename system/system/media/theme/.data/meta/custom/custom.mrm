@@ -1,0 +1,13 @@
+[
+  {
+    "subject": "berylliumdefault",
+    "international": true,
+    "hwversion": [
+      "*"
+    ],
+    "guide_sort": "2633da74-9f7e-445c-9815-d4c23582cf9b,84ad7585-2855-494c-aa45-2e783dbe8b39,0,ebfce684-1d1e-4a70-ae14-f7ca038f4d34",
+    "local": {
+      "id": "0"
+    }
+  }
+]
